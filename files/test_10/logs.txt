@@ -1,0 +1,208 @@
+May 26, 2023 at 6:07:26 PM:  Versions are not the same, updating device
+May 26, 2023 at 6:08:12 PM:  Connected to wifi
+May 26, 2023 at 6:08:17 PM:  Upload complete! Now running version 0
+May 26, 2023 at 6:08:22 PM:  Versions are not the same, updating device
+May 26, 2023 at 7:10:29 PM:  Connected to wifi
+May 26, 2023 at 7:10:34 PM:  Upload complete! Now running version 0
+May 26, 2023 at 7:10:39 PM:  Versions are not the same, updating device
+May 26, 2023 at 7:11:14 PM:  Connected to wifi
+May 26, 2023 at 7:11:19 PM:  Upload complete! Now running version 0
+May 26, 2023 at 7:11:24 PM:  Versions are not the same, updating device
+May 26, 2023 at 7:12:16 PM:  Connected to wifi
+May 26, 2023 at 7:12:21 PM:  Upload complete! Now running version 1
+May 26, 2023 at 7:12:27 PM:  Connected to wifi
+May 26, 2023 at 7:12:32 PM:  Upload complete! Now running version 1
+May 26, 2023 at 7:12:37 PM:  Versions are the same
+May 26, 2023 at 7:13:44 PM:  Versions are the same
+May 26, 2023 at 7:15:13 PM:  Connected to wifi
+May 26, 2023 at 7:15:18 PM:  Upload complete! Now running version 1
+May 26, 2023 at 7:15:23 PM:  Versions are the same
+May 26, 2023 at 7:16:32 PM:  Versions are the same
+May 26, 2023 at 7:17:38 PM:  Versions are the same
+May 26, 2023 at 7:18:45 PM:  Versions are the same
+May 26, 2023 at 7:19:51 PM:  Versions are the same
+May 26, 2023 at 7:20:57 PM:  Versions are the same
+May 26, 2023 at 7:22:04 PM:  Versions are the same
+May 26, 2023 at 7:23:10 PM:  Versions are the same
+May 26, 2023 at 7:24:16 PM:  Versions are the same
+May 26, 2023 at 7:25:22 PM:  Versions are the same
+May 26, 2023 at 7:26:28 PM:  Versions are the same
+May 26, 2023 at 7:27:35 PM:  Versions are the same
+May 26, 2023 at 7:28:41 PM:  Versions are the same
+May 26, 2023 at 7:29:47 PM:  Versions are the same
+May 26, 2023 at 7:30:53 PM:  Versions are the same
+May 26, 2023 at 7:32:00 PM:  Versions are the same
+May 26, 2023 at 7:33:06 PM:  Versions are the same
+May 26, 2023 at 7:36:14 PM:  Versions are the same
+May 26, 2023 at 7:37:21 PM:  Versions are the same
+May 26, 2023 at 7:38:27 PM:  Versions are the same
+May 26, 2023 at 7:39:33 PM:  Versions are the same
+May 26, 2023 at 7:40:40 PM:  Versions are the same
+May 26, 2023 at 7:41:47 PM:  Versions are the same
+May 26, 2023 at 7:42:53 PM:  Versions are the same
+May 26, 2023 at 7:43:59 PM:  Versions are the same
+May 26, 2023 at 7:45:05 PM:  Versions are the same
+May 26, 2023 at 7:46:12 PM:  Versions are the same
+May 26, 2023 at 7:47:18 PM:  Versions are the same
+May 26, 2023 at 7:48:24 PM:  Versions are the same
+May 26, 2023 at 7:49:31 PM:  Versions are the same
+May 26, 2023 at 7:50:37 PM:  Versions are the same
+May 26, 2023 at 7:51:43 PM:  Versions are the same
+May 26, 2023 at 7:52:49 PM:  Versions are the same
+May 26, 2023 at 7:53:56 PM:  Versions are the same
+May 26, 2023 at 7:55:02 PM:  Versions are the same
+May 26, 2023 at 7:56:09 PM:  Versions are the same
+May 26, 2023 at 7:57:15 PM:  Versions are the same
+May 26, 2023 at 7:57:45 PM:  Connected to wifi
+May 26, 2023 at 7:57:50 PM:  Upload complete! Now running version 1
+May 26, 2023 at 7:57:55 PM:  Versions are the same
+May 26, 2023 at 7:59:02 PM:  Versions are the same
+May 26, 2023 at 8:00:08 PM:  Versions are the same
+May 26, 2023 at 8:01:14 PM:  Versions are the same
+May 26, 2023 at 8:02:21 PM:  Versions are the same
+May 26, 2023 at 8:03:27 PM:  Versions are the same
+May 26, 2023 at 8:04:33 PM:  Versions are the same
+May 26, 2023 at 8:06:09 PM:  Connected to wifi
+May 26, 2023 at 8:06:14 PM:  Upload complete! Now running version 0
+May 26, 2023 at 8:06:19 PM:  Versions are not the same, updating device
+May 26, 2023 at 8:06:37 PM:  Connected to wifi
+May 26, 2023 at 8:06:42 PM:  Upload complete! Now running version 0
+May 26, 2023 at 8:06:47 PM:  Versions are not the same, updating device
+May 26, 2023 at 8:07:54 PM:  Versions are not the same, updating device
+May 26, 2023 at 8:09:00 PM:  Versions are not the same, updating device
+May 26, 2023 at 8:10:06 PM:  Versions are not the same, updating device
+May 26, 2023 at 8:10:51 PM:  Connected to wifi
+May 26, 2023 at 8:10:56 PM:  Upload complete! Now running version 0
+May 26, 2023 at 8:11:02 PM:  Versions are not the same, updating device
+May 26, 2023 at 8:38:07 PM:  Connected to wifi
+May 26, 2023 at 8:38:12 PM:  Upload complete! Now running version 0
+May 26, 2023 at 8:38:17 PM:  Versions are not the same, updating device
+May 26, 2023 at 8:46:13 PM:  Connected to wifi
+May 26, 2023 at 8:46:18 PM:  Upload complete! Now running version 0
+May 26, 2023 at 8:46:24 PM:  Versions are not the same, updating device
+May 26, 2023 at 8:48:50 PM:  Connected to wifi
+May 26, 2023 at 8:48:55 PM:  Upload complete! Now running version 0
+May 26, 2023 at 8:49:01 PM:  Versions are not the same, updating device
+May 26, 2023 at 8:49:06 PM:  Update size: 1648960
+May 26, 2023 at 8:49:11 PM:  Starting Update
+May 26, 2023 at 8:49:16 PM:  64/1648960
+May 26, 2023 at 8:49:21 PM:  128/1648960
+May 26, 2023 at 8:49:26 PM:  192/1648960
+May 26, 2023 at 8:49:31 PM:  256/1648960
+May 26, 2023 at 8:49:36 PM:  320/1648960
+May 26, 2023 at 8:49:41 PM:  384/1648960
+May 26, 2023 at 8:49:46 PM:  448/1648960
+May 26, 2023 at 8:49:52 PM:  512/1648960
+May 26, 2023 at 8:49:57 PM:  576/1648960
+May 26, 2023 at 8:50:02 PM:  640/1648960
+May 26, 2023 at 8:50:07 PM:  704/1648960
+May 26, 2023 at 8:50:12 PM:  768/1648960
+May 26, 2023 at 8:50:57 PM:  Connected to wifi
+May 26, 2023 at 8:51:02 PM:  Upload complete! Now running version 0
+May 26, 2023 at 8:51:08 PM:  Versions are not the same, updating device
+May 26, 2023 at 8:51:13 PM:  Update size: 1648960
+May 26, 2023 at 8:51:18 PM:  Starting Update
+May 26, 2023 at 8:52:23 PM:  Update complete
+May 26, 2023 at 9:04:10 PM:  Connected to wifi
+May 26, 2023 at 9:04:15 PM:  Upload complete! Now running version 0
+May 26, 2023 at 9:04:21 PM:  Versions are not the same, updating device
+May 26, 2023 at 9:04:26 PM:  Conecting to path: http://100.97.59.135:3001/files/venues/test_10
+May 26, 2023 at 9:04:31 PM:  Response: 200
+May 26, 2023 at 9:04:36 PM:  Update size: 1648960
+May 26, 2023 at 9:04:41 PM:  Starting Update
+May 26, 2023 at 9:04:46 PM:  64/1648960
+May 26, 2023 at 9:04:51 PM:  128/1648960
+May 26, 2023 at 9:04:56 PM:  192/1648960
+May 26, 2023 at 9:05:01 PM:  256/1648960
+May 26, 2023 at 9:05:06 PM:  320/1648960
+May 26, 2023 at 9:05:12 PM:  384/1648960
+May 26, 2023 at 9:05:17 PM:  448/1648960
+May 26, 2023 at 9:05:22 PM:  512/1648960
+May 26, 2023 at 9:05:27 PM:  576/1648960
+May 26, 2023 at 9:05:32 PM:  640/1648960
+May 26, 2023 at 9:05:37 PM:  704/1648960
+May 26, 2023 at 9:05:42 PM:  768/1648960
+May 26, 2023 at 9:05:47 PM:  Update timeout
+May 26, 2023 at 9:07:28 PM:  Connected to wifi
+May 26, 2023 at 9:07:33 PM:  Upload complete! Now running version 0
+May 26, 2023 at 9:07:38 PM:  Versions are not the same, updating device
+May 26, 2023 at 9:07:43 PM:  Conecting to path: http://100.97.59.135:3001/files/venues/test_10
+May 26, 2023 at 9:07:49 PM:  Response: 200
+May 26, 2023 at 9:07:54 PM:  Update size: 1648960
+May 26, 2023 at 9:07:59 PM:  Starting Update
+May 26, 2023 at 9:08:04 PM:  64/1648960
+May 26, 2023 at 9:08:09 PM:  128/1648960
+May 26, 2023 at 9:08:14 PM:  192/1648960
+May 26, 2023 at 9:08:19 PM:  256/1648960
+May 26, 2023 at 9:08:24 PM:  320/1648960
+May 26, 2023 at 9:08:29 PM:  384/1648960
+May 26, 2023 at 9:08:34 PM:  448/1648960
+May 26, 2023 at 9:08:39 PM:  512/1648960
+May 26, 2023 at 9:08:44 PM:  576/1648960
+May 26, 2023 at 9:08:49 PM:  640/1648960
+May 26, 2023 at 9:08:54 PM:  704/1648960
+May 26, 2023 at 9:08:59 PM:  768/1648960
+May 26, 2023 at 9:09:04 PM:  Update timeout
+May 26, 2023 at 9:10:18 PM:  Connected to wifi
+May 26, 2023 at 9:10:23 PM:  Upload complete! Now running version 0
+May 26, 2023 at 9:10:28 PM:  Versions are not the same, updating device
+May 26, 2023 at 9:10:33 PM:  Conecting to path: http://100.97.59.135:3001/files/venues/test_10
+May 26, 2023 at 9:10:38 PM:  Response: 200
+May 26, 2023 at 9:10:43 PM:  Update size: 1648960
+May 26, 2023 at 9:10:49 PM:  Starting Update
+May 26, 2023 at 9:10:54 PM:  64/1648960
+May 26, 2023 at 9:10:59 PM:  128/1648960
+May 26, 2023 at 9:11:04 PM:  192/1648960
+May 26, 2023 at 9:11:09 PM:  256/1648960
+May 26, 2023 at 9:11:14 PM:  320/1648960
+May 26, 2023 at 9:11:19 PM:  384/1648960
+May 26, 2023 at 9:11:24 PM:  448/1648960
+May 26, 2023 at 9:11:29 PM:  512/1648960
+May 26, 2023 at 9:11:34 PM:  576/1648960
+May 26, 2023 at 9:11:39 PM:  640/1648960
+May 26, 2023 at 9:11:44 PM:  704/1648960
+May 26, 2023 at 9:11:49 PM:  768/1648960
+May 26, 2023 at 9:11:54 PM:  Update timeout
+May 26, 2023 at 9:13:07 PM:  Connected to wifi
+May 26, 2023 at 9:13:12 PM:  Upload complete! Now running version 0
+May 26, 2023 at 9:13:17 PM:  Versions are not the same, updating device
+May 26, 2023 at 9:13:22 PM:  Conecting to path: http://100.97.59.135:3001/files/venues/test_10
+May 26, 2023 at 9:13:27 PM:  Response: 200
+May 26, 2023 at 9:13:33 PM:  Update size: 1648960
+May 26, 2023 at 9:13:38 PM:  Starting Update
+May 26, 2023 at 9:14:42 PM:  1648960/1648960 - Update complete
+ May 28, 2023 at 2:59:12 PM:  Connected to wifi
+May 28, 2023 at 2:59:17 PM:  Upload complete! Now running version 0
+May 28, 2023 at 2:59:22 PM:  Versions are not the same, updating device
+May 28, 2023 at 2:59:27 PM:  Conecting to path: http://100.97.59.135:3001/files/venues/test_10
+May 28, 2023 at 2:59:33 PM:  Response: 200
+May 28, 2023 at 2:59:38 PM:  Update size: 1648960
+May 28, 2023 at 2:59:43 PM:  Starting Update
+May 28, 2023 at 3:00:48 PM:  1648960/1648960 - Update complete
+May 28, 2023 at 3:02:54 PM:  Connected to wifi
+May 28, 2023 at 3:02:59 PM:  Upload complete! Now running version 1
+May 28, 2023 at 3:03:04 PM:  Versions are the same
+May 28, 2023 at 3:04:10 PM:  Versions are the same
+May 28, 2023 at 3:05:17 PM:  Versions are the same
+May 28, 2023 at 3:06:23 PM:  Versions are the same
+May 28, 2023 at 3:07:57 PM:  Connected to wifi
+May 28, 2023 at 3:08:02 PM:  Upload complete! Now running version 1
+May 28, 2023 at 3:08:07 PM:  Versions are the same
+May 28, 2023 at 3:08:43 PM:  Versions are the same
+May 28, 2023 at 3:09:20 PM:  Versions are the same
+May 28, 2023 at 3:09:56 PM:  Versions are the same
+May 28, 2023 at 3:10:33 PM:  Versions are the same
+May 28, 2023 at 3:11:09 PM:  Versions are the same
+May 28, 2023 at 3:11:45 PM:  Versions are the same
+May 28, 2023 at 3:12:22 PM:  Versions are the same
+May 28, 2023 at 3:12:58 PM:  Versions are the same
+May 28, 2023 at 3:13:34 PM:  Versions are the same
+May 28, 2023 at 3:14:11 PM:  Versions are the same
+May 28, 2023 at 3:15:11 PM:  Connected to wifi
+May 28, 2023 at 3:15:16 PM:  Upload complete! Now running version 1
+May 28, 2023 at 7:02:09 PM:  Check host destination and internet conection.
+May 28, 2023 at 8:20:34 PM:  Response: 200
+May 28, 2023 at 8:20:39 PM:  Update size: 1648960
+May 28, 2023 at 8:20:44 PM:  Starting Update
+May 28, 2023 at 8:21:51 PM:  Connected to wifi
+May 28, 2023 at 8:21:56 PM:  Upload complete! Now running version 1
