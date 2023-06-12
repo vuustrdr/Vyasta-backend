@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json())
 
 //todo
-mongoose.connect("mongodb://localhost/venue", { useNewUrlParser : true })
+mongoose.connect("mongodb+srv://VyastaAdmin:kO4gKvghyBBpaGiT@vyastadb.j2oaoux.mongodb.net/?retryWrites=true&w=majority", { useNewUrlParser : true })
 const db = mongoose.connection //access db
 db.on("error", (error) => console.log(error)) //on error print the error
 db.once("open", () => console.log("Connected to db"))
