@@ -1,5 +1,6 @@
 const express = require("express");
 const mongoose = require("mongoose")
+require("dotenv").config();
 const cors = require("cors")
 const app = express();
 
@@ -31,5 +32,5 @@ app.use("/times", timesRouter)
 app.use("/records", recordsRouter)
 app.use("/accounts", accountsRouter)
 
-app.listen(3001, () => console.log("Server started on port 3001"))
+app.listen(process.env.PORT || 3001, () => console.log("Server started on port 3001"))
 //todo remove node modules from git commits
